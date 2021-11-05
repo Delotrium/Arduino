@@ -6,4 +6,16 @@ will not need to be on (simulating a day envirnment where the light cannot be us
 ## Circuit Setup
 
 ![Circuit Image](https://i.ibb.co/0qtCjK9/cap1.png)
-#### Circuit Setup to be added
+#### Circuit Setup 
+
+RGB Red &#8594; Pin 11
+RGB Cathode &#8594; 220Ω Resistor &#8594; GRND
+RGB Blue &#8594; Pin 10
+RGB Green &#8594; Pin 9
+
+Light Resistor Terminal 1 &#8594; 220Ω Resistor &#8594; GRND
+Light Resistor Terminal 1 &#8594; Pin A0
+Light Resistor Terminal 2 &#8594; Positive (5V)
+
+Piezo Positive &#8594; Pin 8
+Piezo Negative &#8594; GRND
