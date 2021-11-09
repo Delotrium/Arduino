@@ -5,7 +5,7 @@ will not need to be on (simulating a day envirnment where the light cannot be us
 
 ## Circuit Setup
 
-![Circuit Image](https://i.ibb.co/0qtCjK9/cap1.png)
+![Circuit Image](https://i.ibb.co/g9nQ7Ts/arduinopic.png)
 #### Circuit Setup 
 
 * RGB Red &#8594; Pin 11
