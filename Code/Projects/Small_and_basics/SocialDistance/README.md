@@ -7,7 +7,12 @@ will not need to be on (simulating a day envirnment where the light cannot be us
 
 ![Circuit Image](https://i.ibb.co/CQGS1GS/Arduino2.png)
 #### Circuit Setup and Part List
-<to be added>
 ##### Piezo
 * Piezo Positive &#8594; Pin 13
 * Piezo Negative &#8594; Resistor 220ΤΩ &#8594; GRND
+
+##### Ultrasonic
+* VCC &#8594 Positive (5V)
+* Trig &#8594 Pin 3
+* Echo &#8594  Pin 2
+* GRND &#8594 GRND
