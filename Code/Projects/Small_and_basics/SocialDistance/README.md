@@ -12,7 +12,7 @@ will not need to be on (simulating a day envirnment where the light cannot be us
 * Piezo Negative &#8594; Resistor 220ΤΩ &#8594; GRND
 
 ##### Ultrasonic
-* VCC &#8594 Positive (5V)
-* Trig &#8594 Pin 3
-* Echo &#8594  Pin 2
-* GRND &#8594 GRND
+* VCC &#8594; Positive (5V)
+* Trig &#8594; Pin 3
+* Echo &#8594;  Pin 2
+* GRND &#8594; GRND
